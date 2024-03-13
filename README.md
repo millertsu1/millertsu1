@@ -11,10 +11,12 @@
 
 - ❤️ I love writing Python🐍, and building wonderful apps in Django
 
+- 🌱 I’m currently learning Backend [![Static Badge](https://img.shields.io/badge/MERN-MongoDB-gray?style=flat-square&logo=mongodb&logoColor=%2347A248&label=NoSQL&color=%2347A248&link=https%3A%2F%2Fwww.mongodb.com%2F)
+](https://www.mongodb.com/) [![Static Badge](https://img.shields.io/badge/SQL-PostgreSQL-gray?style=flat-square&logo=postgresql&logoColor=%234169E1&label=SQL&color=%234169E1&link=https%3A%2F%2Fwww.postgresql.org%2F)
+](https://www.postgresql.org/) [![Static Badge](https://img.shields.io/badge/GraphQL-GraphQL-gray?style=flat-square&logo=graphql&logoColor=%23E10098&label=GraphQL&color=%23E10098&link=https%3A%2F%2Fgraphql.org%2F)
+](https://graphql.org/)
+- 👯 I’m looking to collaborate on open source/commercial projects.
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/miller-systemsengineer/)
-
-- 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate on open source/commercial projects
 
 ## Stats
  <a href="https://github.com/millertsu1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millertsu1&layout=compact&theme=buefy&hide_border=true" /></a>
