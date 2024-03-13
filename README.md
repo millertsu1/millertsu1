@@ -1,6 +1,6 @@
 ## Hi, I'am Miller 👨🏻‍💻 <a href="https://drive.google.com/file/d/17CgnjhPkkMWwD1OO2UJG8GOQwLJWz5dU/view"><img src="assets/icons/cv.svg" alt="CV"></a> [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/miller-systemsengineer/)
 
-![profile Miller Ladino](./assets/MillerLadino.png.png)
+![profile Miller Ladino](./assets/MillerLadino.png)
 
 ### I'm a self-taught passionate Web Developer from Colombia
 
