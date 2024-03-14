@@ -7,7 +7,7 @@
 
 **About me**
 
-- 💼 Web Deeveloper at [Nutrabiotics]()
+- 💼 Web Developer at [Nutrabiotics]()
 
 - ❤️ I love writing Python🐍, and building wonderful apps in Django
 
