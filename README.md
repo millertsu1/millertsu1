@@ -9,6 +9,8 @@
 <p style="font-size:12px">💼 Web Developer at <strong> Nutrabiotics</strong> </p>
 <p style="font-size:12px"> ❤️I love writing Python🐍, and building wonderful apps in Django</p>
 
+<p style="font-size:12px">🌱I’m currently learning Backend
+
   [![Static Badge](https://img.shields.io/badge/MERN-MongoDB-gray?style=flat-square&logo=mongodb&logoColor=%2347A248&label=NoSQL&color=%2347A248&link=https%3A%2F%2Fwww.mongodb.com%2F)
 ](https://www.mongodb.com/) [![Static Badge](https://img.shields.io/badge/SQL-PostgreSQL-gray?style=flat-square&logo=postgresql&logoColor=%234169E1&label=SQL&color=%234169E1&link=https%3A%2F%2Fwww.postgresql.org%2F)
 ](https://www.postgresql.org/) [![Static Badge](https://img.shields.io/badge/GraphQL-GraphQL-gray?style=flat-square&logo=graphql&logoColor=%23E10098&label=GraphQL&color=%23E10098&link=https%3A%2F%2Fgraphql.org%2F)
