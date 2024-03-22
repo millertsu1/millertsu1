@@ -4,9 +4,11 @@
 
 <p style="font-size:14px"> I'm a self-taught passionate Web Developer from Colombia</p> 
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+
 ### <p>About me</p>
 <hr>
-<p style="font-size:12px">💼 Web Developer at <strong> Nutrabiotics</strong> </p>
+<p style="font-size:12px">💼 Web Developer at <strong><a href="https://www.instagram.com/nutrabiotics_mf/?hl=en"> Nutrabiotics</a></strong> </p>
 <p style="font-size:12px"> ❤️I love writing Python🐍, and building wonderful apps in Django</p>
 
 <p style="font-size:12px">🌱I’m currently learning Backend
