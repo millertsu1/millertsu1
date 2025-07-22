@@ -33,7 +33,7 @@
 ### My Tech Stack
 <hr>
 
- [![FastAPI](https://img.shields.io/badge/Python%20framework-Django-green?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/Python%20framework-Django-green?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/JavaScript%20framework-React-61dbfb?style=flat-square&logo=javascript&logoColor=white)](https://vuejs.org/)
 [![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 [![Tailwind](https://img.shields.io/badge/Framework-Tailwind-gray?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4&label=CSS%20Framework&color=%2338BDF8&link=https%3A%2F%2Ftailwindcss.com%2F)](https://tailwindcss.com/)
