@@ -9,7 +9,7 @@
 ### <p>About me</p>
 <hr>
 <p style="font-size:12px">💼 Web Developer and User Experience at <strong><a href="https://www.instagram.com/nutrabiotics_mf/?hl=en"> Nutrabiotics</a></strong> </p>
-<p style="font-size:12px"> ❤️I love writing Python🐍, and building wonderful apps in Django</p>
+<p style="font-size:12px"> ❤️I love writing Python🐍, and building wonderful apps in Django(backend) and NextJS(Frontend)</p>
 
 <p style="font-size:12px">🌱I’m currently learning Backend
 
