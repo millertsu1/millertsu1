@@ -1,5 +1,5 @@
 
-## Hi, I'am Miller 👨🏻‍💻  [![Static Badge](https://img.shields.io/badge/curriculum-green?style=plastic&label=CV&labelColor=black)](https://drive.google.com/file/d/17CgnjhPkkMWwD1OO2UJG8GOQwLJWz5dU/view) [![](https://img.shields.io/badge/linkedin-0a66c2?style=plastic&label=CV&labelColor=black)](https://www.linkedin.com/in/miller-systemsengineer/) [![Static Badge](https://img.shields.io/badge/portfolio-orange?style=plastic&label=CV&labelColor=black)](https://millertsu1.github.io/millertsu1_portfolio.github.io/)
+## Hi, I'am Miller 👨🏻‍💻  [![Static Badge](https://img.shields.io/badge/curriculum-green?style=plastic&label=CV&labelColor=black)]([https://drive.google.com/file/d/17CgnjhPkkMWwD1OO2UJG8GOQwLJWz5dU/view](https://drive.google.com/drive/u/0/folders/16rSaEK_fNVfgOeXCTYNkI1GY7akb8DZ0)) [![](https://img.shields.io/badge/linkedin-0a66c2?style=plastic&label=CV&labelColor=black)](https://www.linkedin.com/in/miller-systemsengineer/) [![Static Badge](https://img.shields.io/badge/portfolio-orange?style=plastic&label=CV&labelColor=black)](https://millertsu1.github.io/millertsu1_portfolio.github.io/)
 
 
 <p style="font-size:14px"> I'm a self-taught passionate Web Developer from Colombia</p> 
