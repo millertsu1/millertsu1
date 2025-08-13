@@ -31,7 +31,7 @@
 ### My Tech Stack
 <hr>
 
-[![FastAPI](https://img.shields.io/badge/Python%20framework-Django-green?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
+
 [![React](https://img.shields.io/badge/JavaScript%20framework-React-61dbfb?style=flat-square&logo=javascript&logoColor=white)](https://vuejs.org/)
 [![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 [![Tailwind](https://img.shields.io/badge/Framework-Tailwind-gray?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4&label=CSS%20Framework&color=%2338BDF8&link=https%3A%2F%2Ftailwindcss.com%2F)](https://tailwindcss.com/)
@@ -39,10 +39,7 @@
 ](https://www.mongodb.com/)
 [![Static Badge](https://img.shields.io/badge/SQL-PostgreSQL-gray?style=flat-square&logo=postgresql&logoColor=%234169E1&label=SQL&color=%234169E1&link=https%3A%2F%2Fwww.postgresql.org%2F)
 ](https://www.postgresql.org/)
-[![Static Badge](https://img.shields.io/badge/GraphQL-GraphQL-gray?style=flat-square&logo=graphql&logoColor=%23E10098&label=GraphQL&color=%23E10098&link=https%3A%2F%2Fgraphql.org%2F)
-](https://graphql.org/)
 [![Static Badge](https://img.shields.io/badge/Framework-NextJS-gray?style=flat-square&logo=nextdotjs&logoColor=%23000000&label=React%20framework&color=%23000000&link=https%3A%2F%2Fnextjs.org%2F)
 ](https://nextjs.org/)
-[![Static Badge](https://img.shields.io/badge/Framework-NestJS-gray?style=flat-square&logo=nestjs&logoColor=%23E0234E&label=Node%20framework&color=%23E0234E&link=https%3A%2F%2Fnestjs.com%2F)
-](https://nestjs.com/) [![Static Badge](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white&labelColor=black&color=black)](https://expressjs.com/)
+
 
